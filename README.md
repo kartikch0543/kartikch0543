@@ -16,8 +16,12 @@
 
 **Languages:**  
 - C  
+- CPP
+- Java
 - JavaScript  
 - PHP  
+- ReactJs
+- NodeJs
 
 **Web Technologies:**  
 - HTML  
@@ -61,8 +65,8 @@
 
 ## 🤝 Connect With Me  
 
-- 💼 LinkedIn: *(add when available)*  
-- 📧 Email: *(optional)*  
+- 💼 LinkedIn: https://www.linkedin.com/in/kartik-ch/  
+- 📧 Email: kartikchoudhary0543@gmail.com   
 
 ---
 
